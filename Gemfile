@@ -13,4 +13,6 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'webrat'
   gem 'spork', '~> 0.9.0.rc'
+  gem 'factory_girl_rails'
+  gem 'gravatar_image_tag'
 end
